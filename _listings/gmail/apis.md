@@ -26,7 +26,7 @@ apis:
   tags: Vacation
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/vacation/master/_listings/gmail/userid-settings-vacation-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/vacation/master/_listings/gmail/userid-settings-vacation-put.md
 x-common:
 - type: x-auth-scopes
   url: https://developers.google.com/gmail/api/auth/scopes
